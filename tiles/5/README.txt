@@ -1,0 +1,1 @@
+Light-only LB Phone map. Built from minimap_1_0 and minimap_1_1 at native 4096px tile resolution. Dark purple/black water/background from minimap_1_0 has been normalized to the light water color; no night/dark tile set is included. Max zoom 5; 256px PNG tiles.
